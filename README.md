@@ -3,6 +3,13 @@
 ## Overview
 This project implements simulation and reinforcement learning for queueing systems, with a focus on dynamically controlling service rates and resource allocation. It provides tools for modeling M/M/1 and M/M/c queues, simulating their behavior, and applying reinforcement learning to optimize their performance.
 
+## TODO
+- [] training pipeline + script
+- [] model eval script
+- [] visualization pipline + interactive experiement env
+- [] baselines
+- [] (potentially) RLHF based real time rate tuning and adjustment models
+
 ## Mathematical Background
 
 ### Queueing Theory Fundamentals
